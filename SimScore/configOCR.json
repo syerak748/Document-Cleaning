@@ -1,0 +1,7 @@
+
+{
+    "endpoint": "https://order-processing-form-recognizer.cognitiveservices.azure.com/",
+    "apim_key": "fed96b9eec534f878abd425a0a350b85",
+    "model_id": "layout",
+    "API_version": "2024-02-29-preview"
+}

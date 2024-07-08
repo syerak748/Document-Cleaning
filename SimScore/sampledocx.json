@@ -1,0 +1,2728 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2024-06-19T06:49:31Z",
+	"lastUpdatedDateTime": "2024-06-19T06:49:31Z",
+	"analyzeResult": {
+		"apiVersion": "2024-02-29-preview",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "Complete Response Letter\nIND 312321\nRyan Reynolds Atos-Syntel\nSenior Associate Director, Division of Imaging and Radiation (DIRM) FDA/CDER\nPlot No. B-1 Software, Atos-Syntel Link Rd, MIDC Technology Park, Talawade, Pimpri-Chinchwad, Maharashtra 411062\nDear Mr.Reynolds:\nComplete Response Letter\nPlease refer to your investigational new drug application (IND) submitted under section 505 of the Federal Food, Drug and Cosmetic Act for xxxxxx\nWe also refer to your amendment(s) dated December 3, 2021; April 2, 2022;\nSeptember 12, 2022; December 16, 2022 and January 12, 2023.\nWe have the following comments and requests for additional information. Please note that these requests are not clinical hold issues. However, response to them is requested:\nItem#1:\nBased on your submitted protocol CO-0000-001 and XXXXXXX Sub-protocol, it appears that you are pursuing a pathway intended to leverage XYXYXYXY investigation in support of new patient selection indication for XXXXXXXX. In approaching the design of downstream studies, we recommend that you focus on at least the following four high level considerations:\nSECURE EMAIL Secure email is required for all email communications from FDA when confidential information (e.g., trade secrets, manufacturing, or patient information) is included in the message. To\nreceive email communications from FDA that include confidential information (e.g., information requests, labeling revisions, courtesy copies of letters), you must establish secure email. To establish secure email with FDA, send an email request to SecureEmail@fda.hhs.gov. Please note that secure email may not be used for formal regulatory submissions to applications\nSincerely, Ravindranath Tagore 3/21/2023 4:44:45 PM\nLibo M., MD, PhD Director\nDivision of Imaging and Radiation Medicine Office of Specialty Medicine\nCenter for Drug Evaluation and Research\nUS.\nFood and Drug\nAdministration\nSilver\nSpring,\nMD\n20993\nwww.fda.gov\nUS. Food and Drug Administration\nSilver Spring, MD 20993 www.fda.gov\nUS. Food and Drug Administration\nSilver Spring, MD 20993 www.fda.gov",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"words": [
+					{
+						"content": "Complete",
+						"confidence": 1,
+						"span": {
+							"offset": 0,
+							"length": 8
+						}
+					},
+					{
+						"content": "Response",
+						"confidence": 1,
+						"span": {
+							"offset": 9,
+							"length": 8
+						}
+					},
+					{
+						"content": "Letter",
+						"confidence": 1,
+						"span": {
+							"offset": 18,
+							"length": 6
+						}
+					},
+					{
+						"content": "IND",
+						"confidence": 1,
+						"span": {
+							"offset": 25,
+							"length": 3
+						}
+					},
+					{
+						"content": "312321",
+						"confidence": 1,
+						"span": {
+							"offset": 29,
+							"length": 6
+						}
+					},
+					{
+						"content": "Ryan",
+						"confidence": 1,
+						"span": {
+							"offset": 36,
+							"length": 4
+						}
+					},
+					{
+						"content": "Reynolds",
+						"confidence": 1,
+						"span": {
+							"offset": 41,
+							"length": 8
+						}
+					},
+					{
+						"content": "Atos-Syntel",
+						"confidence": 1,
+						"span": {
+							"offset": 50,
+							"length": 11
+						}
+					},
+					{
+						"content": "Senior",
+						"confidence": 1,
+						"span": {
+							"offset": 62,
+							"length": 6
+						}
+					},
+					{
+						"content": "Associate",
+						"confidence": 1,
+						"span": {
+							"offset": 69,
+							"length": 9
+						}
+					},
+					{
+						"content": "Director,",
+						"confidence": 1,
+						"span": {
+							"offset": 79,
+							"length": 9
+						}
+					},
+					{
+						"content": "Division",
+						"confidence": 1,
+						"span": {
+							"offset": 89,
+							"length": 8
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 98,
+							"length": 2
+						}
+					},
+					{
+						"content": "Imaging",
+						"confidence": 1,
+						"span": {
+							"offset": 101,
+							"length": 7
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 109,
+							"length": 3
+						}
+					},
+					{
+						"content": "Radiation",
+						"confidence": 1,
+						"span": {
+							"offset": 113,
+							"length": 9
+						}
+					},
+					{
+						"content": "(DIRM)",
+						"confidence": 1,
+						"span": {
+							"offset": 123,
+							"length": 6
+						}
+					},
+					{
+						"content": "FDA/CDER",
+						"confidence": 1,
+						"span": {
+							"offset": 130,
+							"length": 8
+						}
+					},
+					{
+						"content": "Plot",
+						"confidence": 1,
+						"span": {
+							"offset": 139,
+							"length": 4
+						}
+					},
+					{
+						"content": "No.",
+						"confidence": 1,
+						"span": {
+							"offset": 144,
+							"length": 3
+						}
+					},
+					{
+						"content": "B-1",
+						"confidence": 1,
+						"span": {
+							"offset": 148,
+							"length": 3
+						}
+					},
+					{
+						"content": "Software,",
+						"confidence": 1,
+						"span": {
+							"offset": 152,
+							"length": 9
+						}
+					},
+					{
+						"content": "Atos-Syntel",
+						"confidence": 1,
+						"span": {
+							"offset": 162,
+							"length": 11
+						}
+					},
+					{
+						"content": "Link",
+						"confidence": 1,
+						"span": {
+							"offset": 174,
+							"length": 4
+						}
+					},
+					{
+						"content": "Rd,",
+						"confidence": 1,
+						"span": {
+							"offset": 179,
+							"length": 3
+						}
+					},
+					{
+						"content": "MIDC",
+						"confidence": 1,
+						"span": {
+							"offset": 183,
+							"length": 4
+						}
+					},
+					{
+						"content": "Technology",
+						"confidence": 1,
+						"span": {
+							"offset": 188,
+							"length": 10
+						}
+					},
+					{
+						"content": "Park,",
+						"confidence": 1,
+						"span": {
+							"offset": 199,
+							"length": 5
+						}
+					},
+					{
+						"content": "Talawade,",
+						"confidence": 1,
+						"span": {
+							"offset": 205,
+							"length": 9
+						}
+					},
+					{
+						"content": "Pimpri-Chinchwad,",
+						"confidence": 1,
+						"span": {
+							"offset": 215,
+							"length": 17
+						}
+					},
+					{
+						"content": "Maharashtra",
+						"confidence": 1,
+						"span": {
+							"offset": 233,
+							"length": 11
+						}
+					},
+					{
+						"content": "411062",
+						"confidence": 1,
+						"span": {
+							"offset": 245,
+							"length": 6
+						}
+					},
+					{
+						"content": "Dear",
+						"confidence": 1,
+						"span": {
+							"offset": 252,
+							"length": 4
+						}
+					},
+					{
+						"content": "Mr.Reynolds:",
+						"confidence": 1,
+						"span": {
+							"offset": 257,
+							"length": 12
+						}
+					},
+					{
+						"content": "Complete",
+						"confidence": 1,
+						"span": {
+							"offset": 270,
+							"length": 8
+						}
+					},
+					{
+						"content": "Response",
+						"confidence": 1,
+						"span": {
+							"offset": 279,
+							"length": 8
+						}
+					},
+					{
+						"content": "Letter",
+						"confidence": 1,
+						"span": {
+							"offset": 288,
+							"length": 6
+						}
+					},
+					{
+						"content": "Please",
+						"confidence": 1,
+						"span": {
+							"offset": 295,
+							"length": 6
+						}
+					},
+					{
+						"content": "refer",
+						"confidence": 1,
+						"span": {
+							"offset": 302,
+							"length": 5
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 308,
+							"length": 2
+						}
+					},
+					{
+						"content": "your",
+						"confidence": 1,
+						"span": {
+							"offset": 311,
+							"length": 4
+						}
+					},
+					{
+						"content": "investigational",
+						"confidence": 1,
+						"span": {
+							"offset": 316,
+							"length": 15
+						}
+					},
+					{
+						"content": "new",
+						"confidence": 1,
+						"span": {
+							"offset": 332,
+							"length": 3
+						}
+					},
+					{
+						"content": "drug",
+						"confidence": 1,
+						"span": {
+							"offset": 336,
+							"length": 4
+						}
+					},
+					{
+						"content": "application",
+						"confidence": 1,
+						"span": {
+							"offset": 341,
+							"length": 11
+						}
+					},
+					{
+						"content": "(IND)",
+						"confidence": 1,
+						"span": {
+							"offset": 353,
+							"length": 5
+						}
+					},
+					{
+						"content": "submitted",
+						"confidence": 1,
+						"span": {
+							"offset": 359,
+							"length": 9
+						}
+					},
+					{
+						"content": "under",
+						"confidence": 1,
+						"span": {
+							"offset": 369,
+							"length": 5
+						}
+					},
+					{
+						"content": "section",
+						"confidence": 1,
+						"span": {
+							"offset": 375,
+							"length": 7
+						}
+					},
+					{
+						"content": "505",
+						"confidence": 1,
+						"span": {
+							"offset": 383,
+							"length": 3
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 387,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"confidence": 1,
+						"span": {
+							"offset": 390,
+							"length": 3
+						}
+					},
+					{
+						"content": "Federal",
+						"confidence": 1,
+						"span": {
+							"offset": 394,
+							"length": 7
+						}
+					},
+					{
+						"content": "Food,",
+						"confidence": 1,
+						"span": {
+							"offset": 402,
+							"length": 5
+						}
+					},
+					{
+						"content": "Drug",
+						"confidence": 1,
+						"span": {
+							"offset": 408,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 413,
+							"length": 3
+						}
+					},
+					{
+						"content": "Cosmetic",
+						"confidence": 1,
+						"span": {
+							"offset": 417,
+							"length": 8
+						}
+					},
+					{
+						"content": "Act",
+						"confidence": 1,
+						"span": {
+							"offset": 426,
+							"length": 3
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 430,
+							"length": 3
+						}
+					},
+					{
+						"content": "xxxxxx",
+						"confidence": 1,
+						"span": {
+							"offset": 434,
+							"length": 6
+						}
+					},
+					{
+						"content": "We",
+						"confidence": 1,
+						"span": {
+							"offset": 441,
+							"length": 2
+						}
+					},
+					{
+						"content": "also",
+						"confidence": 1,
+						"span": {
+							"offset": 444,
+							"length": 4
+						}
+					},
+					{
+						"content": "refer",
+						"confidence": 1,
+						"span": {
+							"offset": 449,
+							"length": 5
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 455,
+							"length": 2
+						}
+					},
+					{
+						"content": "your",
+						"confidence": 1,
+						"span": {
+							"offset": 458,
+							"length": 4
+						}
+					},
+					{
+						"content": "amendment(s)",
+						"confidence": 1,
+						"span": {
+							"offset": 463,
+							"length": 12
+						}
+					},
+					{
+						"content": "dated",
+						"confidence": 1,
+						"span": {
+							"offset": 476,
+							"length": 5
+						}
+					},
+					{
+						"content": "December",
+						"confidence": 1,
+						"span": {
+							"offset": 482,
+							"length": 8
+						}
+					},
+					{
+						"content": "3,",
+						"confidence": 1,
+						"span": {
+							"offset": 491,
+							"length": 2
+						}
+					},
+					{
+						"content": "2021;",
+						"confidence": 1,
+						"span": {
+							"offset": 494,
+							"length": 5
+						}
+					},
+					{
+						"content": "April",
+						"confidence": 1,
+						"span": {
+							"offset": 500,
+							"length": 5
+						}
+					},
+					{
+						"content": "2,",
+						"confidence": 1,
+						"span": {
+							"offset": 506,
+							"length": 2
+						}
+					},
+					{
+						"content": "2022;",
+						"confidence": 1,
+						"span": {
+							"offset": 509,
+							"length": 5
+						}
+					},
+					{
+						"content": "September",
+						"confidence": 1,
+						"span": {
+							"offset": 515,
+							"length": 9
+						}
+					},
+					{
+						"content": "12,",
+						"confidence": 1,
+						"span": {
+							"offset": 525,
+							"length": 3
+						}
+					},
+					{
+						"content": "2022;",
+						"confidence": 1,
+						"span": {
+							"offset": 529,
+							"length": 5
+						}
+					},
+					{
+						"content": "December",
+						"confidence": 1,
+						"span": {
+							"offset": 535,
+							"length": 8
+						}
+					},
+					{
+						"content": "16,",
+						"confidence": 1,
+						"span": {
+							"offset": 544,
+							"length": 3
+						}
+					},
+					{
+						"content": "2022",
+						"confidence": 1,
+						"span": {
+							"offset": 548,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 553,
+							"length": 3
+						}
+					},
+					{
+						"content": "January",
+						"confidence": 1,
+						"span": {
+							"offset": 557,
+							"length": 7
+						}
+					},
+					{
+						"content": "12,",
+						"confidence": 1,
+						"span": {
+							"offset": 565,
+							"length": 3
+						}
+					},
+					{
+						"content": "2023.",
+						"confidence": 1,
+						"span": {
+							"offset": 569,
+							"length": 5
+						}
+					},
+					{
+						"content": "We",
+						"confidence": 1,
+						"span": {
+							"offset": 575,
+							"length": 2
+						}
+					},
+					{
+						"content": "have",
+						"confidence": 1,
+						"span": {
+							"offset": 578,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"confidence": 1,
+						"span": {
+							"offset": 583,
+							"length": 3
+						}
+					},
+					{
+						"content": "following",
+						"confidence": 1,
+						"span": {
+							"offset": 587,
+							"length": 9
+						}
+					},
+					{
+						"content": "comments",
+						"confidence": 1,
+						"span": {
+							"offset": 597,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 606,
+							"length": 3
+						}
+					},
+					{
+						"content": "requests",
+						"confidence": 1,
+						"span": {
+							"offset": 610,
+							"length": 8
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 619,
+							"length": 3
+						}
+					},
+					{
+						"content": "additional",
+						"confidence": 1,
+						"span": {
+							"offset": 623,
+							"length": 10
+						}
+					},
+					{
+						"content": "information.",
+						"confidence": 1,
+						"span": {
+							"offset": 634,
+							"length": 12
+						}
+					},
+					{
+						"content": "Please",
+						"confidence": 1,
+						"span": {
+							"offset": 647,
+							"length": 6
+						}
+					},
+					{
+						"content": "note",
+						"confidence": 1,
+						"span": {
+							"offset": 654,
+							"length": 4
+						}
+					},
+					{
+						"content": "that",
+						"confidence": 1,
+						"span": {
+							"offset": 659,
+							"length": 4
+						}
+					},
+					{
+						"content": "these",
+						"confidence": 1,
+						"span": {
+							"offset": 664,
+							"length": 5
+						}
+					},
+					{
+						"content": "requests",
+						"confidence": 1,
+						"span": {
+							"offset": 670,
+							"length": 8
+						}
+					},
+					{
+						"content": "are",
+						"confidence": 1,
+						"span": {
+							"offset": 679,
+							"length": 3
+						}
+					},
+					{
+						"content": "not",
+						"confidence": 1,
+						"span": {
+							"offset": 683,
+							"length": 3
+						}
+					},
+					{
+						"content": "clinical",
+						"confidence": 1,
+						"span": {
+							"offset": 687,
+							"length": 8
+						}
+					},
+					{
+						"content": "hold",
+						"confidence": 1,
+						"span": {
+							"offset": 696,
+							"length": 4
+						}
+					},
+					{
+						"content": "issues.",
+						"confidence": 1,
+						"span": {
+							"offset": 701,
+							"length": 7
+						}
+					},
+					{
+						"content": "However,",
+						"confidence": 1,
+						"span": {
+							"offset": 709,
+							"length": 8
+						}
+					},
+					{
+						"content": "response",
+						"confidence": 1,
+						"span": {
+							"offset": 718,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 727,
+							"length": 2
+						}
+					},
+					{
+						"content": "them",
+						"confidence": 1,
+						"span": {
+							"offset": 730,
+							"length": 4
+						}
+					},
+					{
+						"content": "is",
+						"confidence": 1,
+						"span": {
+							"offset": 735,
+							"length": 2
+						}
+					},
+					{
+						"content": "requested:",
+						"confidence": 1,
+						"span": {
+							"offset": 738,
+							"length": 10
+						}
+					},
+					{
+						"content": "Item#1:",
+						"confidence": 1,
+						"span": {
+							"offset": 749,
+							"length": 7
+						}
+					},
+					{
+						"content": "Based",
+						"confidence": 1,
+						"span": {
+							"offset": 757,
+							"length": 5
+						}
+					},
+					{
+						"content": "on",
+						"confidence": 1,
+						"span": {
+							"offset": 763,
+							"length": 2
+						}
+					},
+					{
+						"content": "your",
+						"confidence": 1,
+						"span": {
+							"offset": 766,
+							"length": 4
+						}
+					},
+					{
+						"content": "submitted",
+						"confidence": 1,
+						"span": {
+							"offset": 771,
+							"length": 9
+						}
+					},
+					{
+						"content": "protocol",
+						"confidence": 1,
+						"span": {
+							"offset": 781,
+							"length": 8
+						}
+					},
+					{
+						"content": "CO-0000-001",
+						"confidence": 1,
+						"span": {
+							"offset": 790,
+							"length": 11
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 802,
+							"length": 3
+						}
+					},
+					{
+						"content": "XXXXXXX",
+						"confidence": 1,
+						"span": {
+							"offset": 806,
+							"length": 7
+						}
+					},
+					{
+						"content": "Sub-protocol,",
+						"confidence": 1,
+						"span": {
+							"offset": 814,
+							"length": 13
+						}
+					},
+					{
+						"content": "it",
+						"confidence": 1,
+						"span": {
+							"offset": 828,
+							"length": 2
+						}
+					},
+					{
+						"content": "appears",
+						"confidence": 1,
+						"span": {
+							"offset": 831,
+							"length": 7
+						}
+					},
+					{
+						"content": "that",
+						"confidence": 1,
+						"span": {
+							"offset": 839,
+							"length": 4
+						}
+					},
+					{
+						"content": "you",
+						"confidence": 1,
+						"span": {
+							"offset": 844,
+							"length": 3
+						}
+					},
+					{
+						"content": "are",
+						"confidence": 1,
+						"span": {
+							"offset": 848,
+							"length": 3
+						}
+					},
+					{
+						"content": "pursuing",
+						"confidence": 1,
+						"span": {
+							"offset": 852,
+							"length": 8
+						}
+					},
+					{
+						"content": "a",
+						"confidence": 1,
+						"span": {
+							"offset": 861,
+							"length": 1
+						}
+					},
+					{
+						"content": "pathway",
+						"confidence": 1,
+						"span": {
+							"offset": 863,
+							"length": 7
+						}
+					},
+					{
+						"content": "intended",
+						"confidence": 1,
+						"span": {
+							"offset": 871,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 880,
+							"length": 2
+						}
+					},
+					{
+						"content": "leverage",
+						"confidence": 1,
+						"span": {
+							"offset": 883,
+							"length": 8
+						}
+					},
+					{
+						"content": "XYXYXYXY",
+						"confidence": 1,
+						"span": {
+							"offset": 892,
+							"length": 8
+						}
+					},
+					{
+						"content": "investigation",
+						"confidence": 1,
+						"span": {
+							"offset": 901,
+							"length": 13
+						}
+					},
+					{
+						"content": "in",
+						"confidence": 1,
+						"span": {
+							"offset": 915,
+							"length": 2
+						}
+					},
+					{
+						"content": "support",
+						"confidence": 1,
+						"span": {
+							"offset": 918,
+							"length": 7
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 926,
+							"length": 2
+						}
+					},
+					{
+						"content": "new",
+						"confidence": 1,
+						"span": {
+							"offset": 929,
+							"length": 3
+						}
+					},
+					{
+						"content": "patient",
+						"confidence": 1,
+						"span": {
+							"offset": 933,
+							"length": 7
+						}
+					},
+					{
+						"content": "selection",
+						"confidence": 1,
+						"span": {
+							"offset": 941,
+							"length": 9
+						}
+					},
+					{
+						"content": "indication",
+						"confidence": 1,
+						"span": {
+							"offset": 951,
+							"length": 10
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 962,
+							"length": 3
+						}
+					},
+					{
+						"content": "XXXXXXXX.",
+						"confidence": 1,
+						"span": {
+							"offset": 966,
+							"length": 9
+						}
+					},
+					{
+						"content": "In",
+						"confidence": 1,
+						"span": {
+							"offset": 976,
+							"length": 2
+						}
+					},
+					{
+						"content": "approaching",
+						"confidence": 1,
+						"span": {
+							"offset": 979,
+							"length": 11
+						}
+					},
+					{
+						"content": "the",
+						"confidence": 1,
+						"span": {
+							"offset": 991,
+							"length": 3
+						}
+					},
+					{
+						"content": "design",
+						"confidence": 1,
+						"span": {
+							"offset": 995,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 1002,
+							"length": 2
+						}
+					},
+					{
+						"content": "downstream",
+						"confidence": 1,
+						"span": {
+							"offset": 1005,
+							"length": 10
+						}
+					},
+					{
+						"content": "studies,",
+						"confidence": 1,
+						"span": {
+							"offset": 1016,
+							"length": 8
+						}
+					},
+					{
+						"content": "we",
+						"confidence": 1,
+						"span": {
+							"offset": 1025,
+							"length": 2
+						}
+					},
+					{
+						"content": "recommend",
+						"confidence": 1,
+						"span": {
+							"offset": 1028,
+							"length": 9
+						}
+					},
+					{
+						"content": "that",
+						"confidence": 1,
+						"span": {
+							"offset": 1038,
+							"length": 4
+						}
+					},
+					{
+						"content": "you",
+						"confidence": 1,
+						"span": {
+							"offset": 1043,
+							"length": 3
+						}
+					},
+					{
+						"content": "focus",
+						"confidence": 1,
+						"span": {
+							"offset": 1047,
+							"length": 5
+						}
+					},
+					{
+						"content": "on",
+						"confidence": 1,
+						"span": {
+							"offset": 1053,
+							"length": 2
+						}
+					},
+					{
+						"content": "at",
+						"confidence": 1,
+						"span": {
+							"offset": 1056,
+							"length": 2
+						}
+					},
+					{
+						"content": "least",
+						"confidence": 1,
+						"span": {
+							"offset": 1059,
+							"length": 5
+						}
+					},
+					{
+						"content": "the",
+						"confidence": 1,
+						"span": {
+							"offset": 1065,
+							"length": 3
+						}
+					},
+					{
+						"content": "following",
+						"confidence": 1,
+						"span": {
+							"offset": 1069,
+							"length": 9
+						}
+					},
+					{
+						"content": "four",
+						"confidence": 1,
+						"span": {
+							"offset": 1079,
+							"length": 4
+						}
+					},
+					{
+						"content": "high",
+						"confidence": 1,
+						"span": {
+							"offset": 1084,
+							"length": 4
+						}
+					},
+					{
+						"content": "level",
+						"confidence": 1,
+						"span": {
+							"offset": 1089,
+							"length": 5
+						}
+					},
+					{
+						"content": "considerations:",
+						"confidence": 1,
+						"span": {
+							"offset": 1095,
+							"length": 15
+						}
+					},
+					{
+						"content": "SECURE",
+						"confidence": 1,
+						"span": {
+							"offset": 1111,
+							"length": 6
+						}
+					},
+					{
+						"content": "EMAIL",
+						"confidence": 1,
+						"span": {
+							"offset": 1118,
+							"length": 5
+						}
+					},
+					{
+						"content": "Secure",
+						"confidence": 1,
+						"span": {
+							"offset": 1124,
+							"length": 6
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1131,
+							"length": 5
+						}
+					},
+					{
+						"content": "is",
+						"confidence": 1,
+						"span": {
+							"offset": 1137,
+							"length": 2
+						}
+					},
+					{
+						"content": "required",
+						"confidence": 1,
+						"span": {
+							"offset": 1140,
+							"length": 8
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 1149,
+							"length": 3
+						}
+					},
+					{
+						"content": "all",
+						"confidence": 1,
+						"span": {
+							"offset": 1153,
+							"length": 3
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1157,
+							"length": 5
+						}
+					},
+					{
+						"content": "communications",
+						"confidence": 1,
+						"span": {
+							"offset": 1163,
+							"length": 14
+						}
+					},
+					{
+						"content": "from",
+						"confidence": 1,
+						"span": {
+							"offset": 1178,
+							"length": 4
+						}
+					},
+					{
+						"content": "FDA",
+						"confidence": 1,
+						"span": {
+							"offset": 1183,
+							"length": 3
+						}
+					},
+					{
+						"content": "when",
+						"confidence": 1,
+						"span": {
+							"offset": 1187,
+							"length": 4
+						}
+					},
+					{
+						"content": "confidential",
+						"confidence": 1,
+						"span": {
+							"offset": 1192,
+							"length": 12
+						}
+					},
+					{
+						"content": "information",
+						"confidence": 1,
+						"span": {
+							"offset": 1205,
+							"length": 11
+						}
+					},
+					{
+						"content": "(e.g.,",
+						"confidence": 1,
+						"span": {
+							"offset": 1217,
+							"length": 6
+						}
+					},
+					{
+						"content": "trade",
+						"confidence": 1,
+						"span": {
+							"offset": 1224,
+							"length": 5
+						}
+					},
+					{
+						"content": "secrets,",
+						"confidence": 1,
+						"span": {
+							"offset": 1230,
+							"length": 8
+						}
+					},
+					{
+						"content": "manufacturing,",
+						"confidence": 1,
+						"span": {
+							"offset": 1239,
+							"length": 14
+						}
+					},
+					{
+						"content": "or",
+						"confidence": 1,
+						"span": {
+							"offset": 1254,
+							"length": 2
+						}
+					},
+					{
+						"content": "patient",
+						"confidence": 1,
+						"span": {
+							"offset": 1257,
+							"length": 7
+						}
+					},
+					{
+						"content": "information)",
+						"confidence": 1,
+						"span": {
+							"offset": 1265,
+							"length": 12
+						}
+					},
+					{
+						"content": "is",
+						"confidence": 1,
+						"span": {
+							"offset": 1278,
+							"length": 2
+						}
+					},
+					{
+						"content": "included",
+						"confidence": 1,
+						"span": {
+							"offset": 1281,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"confidence": 1,
+						"span": {
+							"offset": 1290,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"confidence": 1,
+						"span": {
+							"offset": 1293,
+							"length": 3
+						}
+					},
+					{
+						"content": "message.",
+						"confidence": 1,
+						"span": {
+							"offset": 1297,
+							"length": 8
+						}
+					},
+					{
+						"content": "To",
+						"confidence": 1,
+						"span": {
+							"offset": 1306,
+							"length": 2
+						}
+					},
+					{
+						"content": "receive",
+						"confidence": 1,
+						"span": {
+							"offset": 1309,
+							"length": 7
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1317,
+							"length": 5
+						}
+					},
+					{
+						"content": "communications",
+						"confidence": 1,
+						"span": {
+							"offset": 1323,
+							"length": 14
+						}
+					},
+					{
+						"content": "from",
+						"confidence": 1,
+						"span": {
+							"offset": 1338,
+							"length": 4
+						}
+					},
+					{
+						"content": "FDA",
+						"confidence": 1,
+						"span": {
+							"offset": 1343,
+							"length": 3
+						}
+					},
+					{
+						"content": "that",
+						"confidence": 1,
+						"span": {
+							"offset": 1347,
+							"length": 4
+						}
+					},
+					{
+						"content": "include",
+						"confidence": 1,
+						"span": {
+							"offset": 1352,
+							"length": 7
+						}
+					},
+					{
+						"content": "confidential",
+						"confidence": 1,
+						"span": {
+							"offset": 1360,
+							"length": 12
+						}
+					},
+					{
+						"content": "information",
+						"confidence": 1,
+						"span": {
+							"offset": 1373,
+							"length": 11
+						}
+					},
+					{
+						"content": "(e.g.,",
+						"confidence": 1,
+						"span": {
+							"offset": 1385,
+							"length": 6
+						}
+					},
+					{
+						"content": "information",
+						"confidence": 1,
+						"span": {
+							"offset": 1392,
+							"length": 11
+						}
+					},
+					{
+						"content": "requests,",
+						"confidence": 1,
+						"span": {
+							"offset": 1404,
+							"length": 9
+						}
+					},
+					{
+						"content": "labeling",
+						"confidence": 1,
+						"span": {
+							"offset": 1414,
+							"length": 8
+						}
+					},
+					{
+						"content": "revisions,",
+						"confidence": 1,
+						"span": {
+							"offset": 1423,
+							"length": 10
+						}
+					},
+					{
+						"content": "courtesy",
+						"confidence": 1,
+						"span": {
+							"offset": 1434,
+							"length": 8
+						}
+					},
+					{
+						"content": "copies",
+						"confidence": 1,
+						"span": {
+							"offset": 1443,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 1450,
+							"length": 2
+						}
+					},
+					{
+						"content": "letters),",
+						"confidence": 1,
+						"span": {
+							"offset": 1453,
+							"length": 9
+						}
+					},
+					{
+						"content": "you",
+						"confidence": 1,
+						"span": {
+							"offset": 1463,
+							"length": 3
+						}
+					},
+					{
+						"content": "must",
+						"confidence": 1,
+						"span": {
+							"offset": 1467,
+							"length": 4
+						}
+					},
+					{
+						"content": "establish",
+						"confidence": 1,
+						"span": {
+							"offset": 1472,
+							"length": 9
+						}
+					},
+					{
+						"content": "secure",
+						"confidence": 1,
+						"span": {
+							"offset": 1482,
+							"length": 6
+						}
+					},
+					{
+						"content": "email.",
+						"confidence": 1,
+						"span": {
+							"offset": 1489,
+							"length": 6
+						}
+					},
+					{
+						"content": "To",
+						"confidence": 1,
+						"span": {
+							"offset": 1496,
+							"length": 2
+						}
+					},
+					{
+						"content": "establish",
+						"confidence": 1,
+						"span": {
+							"offset": 1499,
+							"length": 9
+						}
+					},
+					{
+						"content": "secure",
+						"confidence": 1,
+						"span": {
+							"offset": 1509,
+							"length": 6
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1516,
+							"length": 5
+						}
+					},
+					{
+						"content": "with",
+						"confidence": 1,
+						"span": {
+							"offset": 1522,
+							"length": 4
+						}
+					},
+					{
+						"content": "FDA,",
+						"confidence": 1,
+						"span": {
+							"offset": 1527,
+							"length": 4
+						}
+					},
+					{
+						"content": "send",
+						"confidence": 1,
+						"span": {
+							"offset": 1532,
+							"length": 4
+						}
+					},
+					{
+						"content": "an",
+						"confidence": 1,
+						"span": {
+							"offset": 1537,
+							"length": 2
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1540,
+							"length": 5
+						}
+					},
+					{
+						"content": "request",
+						"confidence": 1,
+						"span": {
+							"offset": 1546,
+							"length": 7
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 1554,
+							"length": 2
+						}
+					},
+					{
+						"content": "SecureEmail@fda.hhs.gov.",
+						"confidence": 1,
+						"span": {
+							"offset": 1557,
+							"length": 24
+						}
+					},
+					{
+						"content": "Please",
+						"confidence": 1,
+						"span": {
+							"offset": 1582,
+							"length": 6
+						}
+					},
+					{
+						"content": "note",
+						"confidence": 1,
+						"span": {
+							"offset": 1589,
+							"length": 4
+						}
+					},
+					{
+						"content": "that",
+						"confidence": 1,
+						"span": {
+							"offset": 1594,
+							"length": 4
+						}
+					},
+					{
+						"content": "secure",
+						"confidence": 1,
+						"span": {
+							"offset": 1599,
+							"length": 6
+						}
+					},
+					{
+						"content": "email",
+						"confidence": 1,
+						"span": {
+							"offset": 1606,
+							"length": 5
+						}
+					},
+					{
+						"content": "may",
+						"confidence": 1,
+						"span": {
+							"offset": 1612,
+							"length": 3
+						}
+					},
+					{
+						"content": "not",
+						"confidence": 1,
+						"span": {
+							"offset": 1616,
+							"length": 3
+						}
+					},
+					{
+						"content": "be",
+						"confidence": 1,
+						"span": {
+							"offset": 1620,
+							"length": 2
+						}
+					},
+					{
+						"content": "used",
+						"confidence": 1,
+						"span": {
+							"offset": 1623,
+							"length": 4
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 1628,
+							"length": 3
+						}
+					},
+					{
+						"content": "formal",
+						"confidence": 1,
+						"span": {
+							"offset": 1632,
+							"length": 6
+						}
+					},
+					{
+						"content": "regulatory",
+						"confidence": 1,
+						"span": {
+							"offset": 1639,
+							"length": 10
+						}
+					},
+					{
+						"content": "submissions",
+						"confidence": 1,
+						"span": {
+							"offset": 1650,
+							"length": 11
+						}
+					},
+					{
+						"content": "to",
+						"confidence": 1,
+						"span": {
+							"offset": 1662,
+							"length": 2
+						}
+					},
+					{
+						"content": "applications",
+						"confidence": 1,
+						"span": {
+							"offset": 1665,
+							"length": 12
+						}
+					},
+					{
+						"content": "Sincerely,",
+						"confidence": 1,
+						"span": {
+							"offset": 1678,
+							"length": 10
+						}
+					},
+					{
+						"content": "Ravindranath",
+						"confidence": 1,
+						"span": {
+							"offset": 1689,
+							"length": 12
+						}
+					},
+					{
+						"content": "Tagore",
+						"confidence": 1,
+						"span": {
+							"offset": 1702,
+							"length": 6
+						}
+					},
+					{
+						"content": "3/21/2023",
+						"confidence": 1,
+						"span": {
+							"offset": 1709,
+							"length": 9
+						}
+					},
+					{
+						"content": "4:44:45",
+						"confidence": 1,
+						"span": {
+							"offset": 1719,
+							"length": 7
+						}
+					},
+					{
+						"content": "PM",
+						"confidence": 1,
+						"span": {
+							"offset": 1727,
+							"length": 2
+						}
+					},
+					{
+						"content": "Libo",
+						"confidence": 1,
+						"span": {
+							"offset": 1730,
+							"length": 4
+						}
+					},
+					{
+						"content": "M.,",
+						"confidence": 1,
+						"span": {
+							"offset": 1735,
+							"length": 3
+						}
+					},
+					{
+						"content": "MD,",
+						"confidence": 1,
+						"span": {
+							"offset": 1739,
+							"length": 3
+						}
+					},
+					{
+						"content": "PhD",
+						"confidence": 1,
+						"span": {
+							"offset": 1743,
+							"length": 3
+						}
+					},
+					{
+						"content": "Director",
+						"confidence": 1,
+						"span": {
+							"offset": 1747,
+							"length": 8
+						}
+					},
+					{
+						"content": "Division",
+						"confidence": 1,
+						"span": {
+							"offset": 1756,
+							"length": 8
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 1765,
+							"length": 2
+						}
+					},
+					{
+						"content": "Imaging",
+						"confidence": 1,
+						"span": {
+							"offset": 1768,
+							"length": 7
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 1776,
+							"length": 3
+						}
+					},
+					{
+						"content": "Radiation",
+						"confidence": 1,
+						"span": {
+							"offset": 1780,
+							"length": 9
+						}
+					},
+					{
+						"content": "Medicine",
+						"confidence": 1,
+						"span": {
+							"offset": 1790,
+							"length": 8
+						}
+					},
+					{
+						"content": "Office",
+						"confidence": 1,
+						"span": {
+							"offset": 1799,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"confidence": 1,
+						"span": {
+							"offset": 1806,
+							"length": 2
+						}
+					},
+					{
+						"content": "Specialty",
+						"confidence": 1,
+						"span": {
+							"offset": 1809,
+							"length": 9
+						}
+					},
+					{
+						"content": "Medicine",
+						"confidence": 1,
+						"span": {
+							"offset": 1819,
+							"length": 8
+						}
+					},
+					{
+						"content": "Center",
+						"confidence": 1,
+						"span": {
+							"offset": 1828,
+							"length": 6
+						}
+					},
+					{
+						"content": "for",
+						"confidence": 1,
+						"span": {
+							"offset": 1835,
+							"length": 3
+						}
+					},
+					{
+						"content": "Drug",
+						"confidence": 1,
+						"span": {
+							"offset": 1839,
+							"length": 4
+						}
+					},
+					{
+						"content": "Evaluation",
+						"confidence": 1,
+						"span": {
+							"offset": 1844,
+							"length": 10
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 1855,
+							"length": 3
+						}
+					},
+					{
+						"content": "Research",
+						"confidence": 1,
+						"span": {
+							"offset": 1859,
+							"length": 8
+						}
+					},
+					{
+						"content": "US.",
+						"confidence": 1,
+						"span": {
+							"offset": 1868,
+							"length": 3
+						}
+					},
+					{
+						"content": "Food",
+						"confidence": 1,
+						"span": {
+							"offset": 1872,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 1877,
+							"length": 3
+						}
+					},
+					{
+						"content": "Drug",
+						"confidence": 1,
+						"span": {
+							"offset": 1881,
+							"length": 4
+						}
+					},
+					{
+						"content": "Administration",
+						"confidence": 1,
+						"span": {
+							"offset": 1886,
+							"length": 14
+						}
+					},
+					{
+						"content": "Silver",
+						"confidence": 1,
+						"span": {
+							"offset": 1901,
+							"length": 6
+						}
+					},
+					{
+						"content": "Spring,",
+						"confidence": 1,
+						"span": {
+							"offset": 1908,
+							"length": 7
+						}
+					},
+					{
+						"content": "MD",
+						"confidence": 1,
+						"span": {
+							"offset": 1916,
+							"length": 2
+						}
+					},
+					{
+						"content": "20993",
+						"confidence": 1,
+						"span": {
+							"offset": 1919,
+							"length": 5
+						}
+					},
+					{
+						"content": "www.fda.gov",
+						"confidence": 1,
+						"span": {
+							"offset": 1925,
+							"length": 11
+						}
+					},
+					{
+						"content": "US.",
+						"confidence": 1,
+						"span": {
+							"offset": 1937,
+							"length": 3
+						}
+					},
+					{
+						"content": "Food",
+						"confidence": 1,
+						"span": {
+							"offset": 1941,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 1946,
+							"length": 3
+						}
+					},
+					{
+						"content": "Drug",
+						"confidence": 1,
+						"span": {
+							"offset": 1950,
+							"length": 4
+						}
+					},
+					{
+						"content": "Administration",
+						"confidence": 1,
+						"span": {
+							"offset": 1955,
+							"length": 14
+						}
+					},
+					{
+						"content": "Silver",
+						"confidence": 1,
+						"span": {
+							"offset": 1970,
+							"length": 6
+						}
+					},
+					{
+						"content": "Spring,",
+						"confidence": 1,
+						"span": {
+							"offset": 1977,
+							"length": 7
+						}
+					},
+					{
+						"content": "MD",
+						"confidence": 1,
+						"span": {
+							"offset": 1985,
+							"length": 2
+						}
+					},
+					{
+						"content": "20993",
+						"confidence": 1,
+						"span": {
+							"offset": 1988,
+							"length": 5
+						}
+					},
+					{
+						"content": "www.fda.gov",
+						"confidence": 1,
+						"span": {
+							"offset": 1994,
+							"length": 11
+						}
+					},
+					{
+						"content": "US.",
+						"confidence": 1,
+						"span": {
+							"offset": 2006,
+							"length": 3
+						}
+					},
+					{
+						"content": "Food",
+						"confidence": 1,
+						"span": {
+							"offset": 2010,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"confidence": 1,
+						"span": {
+							"offset": 2015,
+							"length": 3
+						}
+					},
+					{
+						"content": "Drug",
+						"confidence": 1,
+						"span": {
+							"offset": 2019,
+							"length": 4
+						}
+					},
+					{
+						"content": "Administration",
+						"confidence": 1,
+						"span": {
+							"offset": 2024,
+							"length": 14
+						}
+					},
+					{
+						"content": "Silver",
+						"confidence": 1,
+						"span": {
+							"offset": 2039,
+							"length": 6
+						}
+					},
+					{
+						"content": "Spring,",
+						"confidence": 1,
+						"span": {
+							"offset": 2046,
+							"length": 7
+						}
+					},
+					{
+						"content": "MD",
+						"confidence": 1,
+						"span": {
+							"offset": 2054,
+							"length": 2
+						}
+					},
+					{
+						"content": "20993",
+						"confidence": 1,
+						"span": {
+							"offset": 2057,
+							"length": 5
+						}
+					},
+					{
+						"content": "www.fda.gov",
+						"confidence": 1,
+						"span": {
+							"offset": 2063,
+							"length": 11
+						}
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 2074
+					}
+				]
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 24
+					}
+				],
+				"role": "title",
+				"content": "Complete Response Letter"
+			},
+			{
+				"spans": [
+					{
+						"offset": 25,
+						"length": 10
+					}
+				],
+				"content": "IND 312321"
+			},
+			{
+				"spans": [
+					{
+						"offset": 36,
+						"length": 25
+					}
+				],
+				"content": "Ryan Reynolds Atos-Syntel"
+			},
+			{
+				"spans": [
+					{
+						"offset": 62,
+						"length": 76
+					}
+				],
+				"content": "Senior Associate Director, Division of Imaging and Radiation (DIRM) FDA/CDER"
+			},
+			{
+				"spans": [
+					{
+						"offset": 139,
+						"length": 112
+					}
+				],
+				"content": "Plot No. B-1 Software, Atos-Syntel Link Rd, MIDC Technology Park, Talawade, Pimpri-Chinchwad, Maharashtra 411062"
+			},
+			{
+				"spans": [
+					{
+						"offset": 252,
+						"length": 17
+					}
+				],
+				"content": "Dear Mr.Reynolds:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 270,
+						"length": 24
+					}
+				],
+				"content": "Complete Response Letter"
+			},
+			{
+				"spans": [
+					{
+						"offset": 295,
+						"length": 145
+					}
+				],
+				"content": "Please refer to your investigational new drug application (IND) submitted under section 505 of the Federal Food, Drug and Cosmetic Act for xxxxxx"
+			},
+			{
+				"spans": [
+					{
+						"offset": 441,
+						"length": 73
+					}
+				],
+				"content": "We also refer to your amendment(s) dated December 3, 2021; April 2, 2022;"
+			},
+			{
+				"spans": [
+					{
+						"offset": 515,
+						"length": 59
+					}
+				],
+				"content": "September 12, 2022; December 16, 2022 and January 12, 2023."
+			},
+			{
+				"spans": [
+					{
+						"offset": 575,
+						"length": 173
+					}
+				],
+				"content": "We have the following comments and requests for additional information. Please note that these requests are not clinical hold issues. However, response to them is requested:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 749,
+						"length": 7
+					}
+				],
+				"content": "Item#1:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 757,
+						"length": 353
+					}
+				],
+				"content": "Based on your submitted protocol CO-0000-001 and XXXXXXX Sub-protocol, it appears that you are pursuing a pathway intended to leverage XYXYXYXY investigation in support of new patient selection indication for XXXXXXXX. In approaching the design of downstream studies, we recommend that you focus on at least the following four high level considerations:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1111,
+						"length": 197
+					}
+				],
+				"content": "SECURE EMAIL Secure email is required for all email communications from FDA when confidential information (e.g., trade secrets, manufacturing, or patient information) is included in the message. To"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1309,
+						"length": 368
+					}
+				],
+				"content": "receive email communications from FDA that include confidential information (e.g., information requests, labeling revisions, courtesy copies of letters), you must establish secure email. To establish secure email with FDA, send an email request to SecureEmail@fda.hhs.gov. Please note that secure email may not be used for formal regulatory submissions to applications"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1678,
+						"length": 51
+					}
+				],
+				"content": "Sincerely, Ravindranath Tagore 3/21/2023 4:44:45 PM"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1730,
+						"length": 25
+					}
+				],
+				"content": "Libo M., MD, PhD Director"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1756,
+						"length": 71
+					}
+				],
+				"content": "Division of Imaging and Radiation Medicine Office of Specialty Medicine"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1828,
+						"length": 39
+					}
+				],
+				"content": "Center for Drug Evaluation and Research"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1868,
+						"length": 3
+					}
+				],
+				"role": "pageFooter",
+				"content": "US."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1872,
+						"length": 13
+					}
+				],
+				"role": "pageFooter",
+				"content": "Food and Drug"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1886,
+						"length": 14
+					}
+				],
+				"role": "pageFooter",
+				"content": "Administration"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1901,
+						"length": 6
+					}
+				],
+				"role": "pageFooter",
+				"content": "Silver"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1908,
+						"length": 7
+					}
+				],
+				"role": "pageFooter",
+				"content": "Spring,"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1916,
+						"length": 2
+					}
+				],
+				"role": "pageFooter",
+				"content": "MD"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1919,
+						"length": 5
+					}
+				],
+				"role": "pageFooter",
+				"content": "20993"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1925,
+						"length": 11
+					}
+				],
+				"role": "pageFooter",
+				"content": "www.fda.gov"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1937,
+						"length": 32
+					}
+				],
+				"role": "pageFooter",
+				"content": "US. Food and Drug Administration"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1970,
+						"length": 35
+					}
+				],
+				"role": "pageFooter",
+				"content": "Silver Spring, MD 20993 www.fda.gov"
+			},
+			{
+				"spans": [
+					{
+						"offset": 2006,
+						"length": 32
+					}
+				],
+				"role": "pageFooter",
+				"content": "US. Food and Drug Administration"
+			},
+			{
+				"spans": [
+					{
+						"offset": 2039,
+						"length": 35
+					}
+				],
+				"role": "pageFooter",
+				"content": "Silver Spring, MD 20993 www.fda.gov"
+			}
+		],
+		"styles": [],
+		"contentFormat": "text",
+		"sections": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1867
+					}
+				],
+				"elements": [
+					"/paragraphs/0",
+					"/paragraphs/1",
+					"/paragraphs/2",
+					"/paragraphs/3",
+					"/paragraphs/4",
+					"/paragraphs/5",
+					"/paragraphs/6",
+					"/paragraphs/7",
+					"/paragraphs/8",
+					"/paragraphs/9",
+					"/paragraphs/10",
+					"/paragraphs/11",
+					"/paragraphs/12",
+					"/paragraphs/13",
+					"/paragraphs/14",
+					"/paragraphs/15",
+					"/paragraphs/16",
+					"/paragraphs/17",
+					"/paragraphs/18"
+				]
+			}
+		]
+	}
+}
