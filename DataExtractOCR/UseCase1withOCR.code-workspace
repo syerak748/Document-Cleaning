@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Full clinical hold on trial.msg",
+			"uri": "msg:/?file:///Users/rxnkshitij748/Novartis Eviden/UseCase1withOCR/Case 1/Full clinical hold on trial.msg"
+		},
+		{
+			"name": "Meeting Request Response.msg",
+			"uri": "msg:/?file:///Users/rxnkshitij748/Novartis Eviden/UseCase1withOCR/Case 1/Meeting Request Response.msg"
+		}
+	],
+	"settings": {}
+}

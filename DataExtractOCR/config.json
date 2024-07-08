@@ -1,0 +1,14 @@
+{
+    "output_excel": "output.xlsx",
+    "output_csv": "output.csv",
+    "headers": [
+      "File Path",
+      "File Name",
+      "Application Number",
+      "Event/Correspondence Date",
+      "Correspondence Type",
+      "Correspondence Type Description",
+      "Description",
+      "Meaningful Summary"
+    ]
+  }
